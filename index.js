@@ -17,7 +17,7 @@ module.exports = function verifyPath (settings) {
 		
 		if (settings == null) settings = {}
 
-		let dirPath = path.resolve(__dirname, settings.path || '.')
+		let dirPath = path.resolve(process.cwd(), settings.path || '.')
 		let mode = settings.mode || parseInt('0755', 8) 
 		
 		settings.fullPath = dirPath
