@@ -1,6 +1,6 @@
 {
   "name": "verify-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "promise verifing path (creating directory if it doesn't exist)",
   "main": "index.js",
   "scripts": {
