@@ -1,0 +1,24 @@
+{
+  "name": "verify-path",
+  "version": "1.0.0",
+  "description": "promise verifing path (creating directory if it doesn't exist)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indieforger/verify-path.git"
+  },
+  "keywords": [
+    "dir",
+    "path",
+    "verify"
+  ],
+  "author": "https://github.com/indieforger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indieforger/verify-path/issues"
+  },
+  "homepage": "https://github.com/indieforger/verify-path#readme"
+}
